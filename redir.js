@@ -1,5 +1,4 @@
-       
-      /*
+
       // Função para redirecionar para o link atual do span
        function redirecionarParaLink() {
         var link = document.getElementById('paybutton').getAttribute('href');
