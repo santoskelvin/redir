@@ -1,4 +1,4 @@
-
+/*
       // Função para redirecionar para o link atual do span
        function redirecionarParaLink() {
         var link = document.getElementById('paybutton').getAttribute('href');
@@ -17,3 +17,4 @@
 
     // Alterar dinamicamente para o novo link
     alterarLinkNovo('https://pay.processarpagamento.store/JqoR32AqM5agVj5');
+*/
